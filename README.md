@@ -10,6 +10,7 @@ Version 1.8.3
 PLEASE REVIEW THE FOLLOWING TERMS AND PRIVACY POLICIES BEFORE USING THIS TOOL.
 
 [Microsoft License Terms for Microsoft Win32 Content Prep Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool/blob/master/Microsoft%20License%20Terms%20For%20Win32%20Content%20Prep%20Tool.pdf)
+
 [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement)
 
 
