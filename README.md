@@ -29,6 +29,10 @@ Default Installation/Detection Rule Path: ```C:\Program Files (x86)\LocalExplore
 
 Detection Rule File: ```LocalExplorer.exe``` or ```Uninstall.exe```
 
+## Generating the .intunewin file
+
+To generate the output .intunewin file, simpily run the ```generate.cmd``` script, or its contents. The output file will be placed in the ```target``` directory.
+
 ## License
 
 **Both utlities remain the Intellectual Property and Copyright of the respective owners Microsoft and VNProDev.**
