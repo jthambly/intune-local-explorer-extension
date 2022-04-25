@@ -31,7 +31,7 @@ Detection Rule File: ```LocalExplorer.exe``` or ```Uninstall.exe```
 
 ## License
 
-**Both utlities remain the Property, Copyright, and Intellectual Property of the respective owners Microsoft and VNProDev.**
+**Both utlities remain the Intellectual Property and Copyright of the respective owners Microsoft and VNProDev.**
 
 For other material:
 
