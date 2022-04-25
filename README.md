@@ -12,6 +12,6 @@ Silent Installation: ```LocalExplorer.exe /S```
 
 Silent Uninstallation: ```Uninstall.exe /S```
 
-Default Installation/Detection Path: ```C:\Program Files (x86)\LocalExplorer```
+Default Installation/Detection Rule Path: ```C:\Program Files (x86)\LocalExplorer```
 
 Detection Rule File: ```LocalExplorer.exe``` or ```Uninstall.exe```
